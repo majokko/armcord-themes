@@ -13,7 +13,7 @@
 /* Import [DONT TOUCH] */
 @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito.base.css');
 /* This makes Discord like another window */
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
+@import url('https://github.com/majokko/armcord-themes/blob/main/ports/bd/moonrabbit/window-mode.css');
 /* This moves normal position for servers and members */
 @import url('https://github.com/majokko/armcord-themes/blob/main/ports/bd/moonrabbit/left-right.css');
 /* Top Window Text */
