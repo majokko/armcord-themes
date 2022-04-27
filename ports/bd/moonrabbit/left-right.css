@@ -1,0 +1,30 @@
+/* Reverse */
+#app-mount .container-1eFtFS {
+    flex-direction: row;
+}
+#app-mount .wrapper-z5ab_q {
+    transform: unset;
+    margin-left: unset;
+}
+#app-mount .content-1jQy2l {
+    flex-direction: row;
+}
+.theme-dark .scroller-3X7KbA, .theme-dark .wrapper-1_HaEi {
+    background-color: hsla(0, 0%, 20%, 0.4);
+}
+.theme-light  .scroller-3X7KbA, .theme-light .wrapper-1_HaEi {
+    background-color: hsla(0, 0%, 100%, 0.4);
+}
+
+.recentMentionsPopout-2bI1ZN {
+    right: unset !important;
+    position: unset !important;
+}
+
+#app-mount .detailsTooltip-G9hSSa {
+    right: unset !important;
+}
+#app-mount .detailsTooltip-G9hSSa .tooltipPointer-3L49xb {
+    transform: rotate(90deg) !important;
+    left: unset !important;
+}
